@@ -2,7 +2,6 @@ set :user, "brianwat"
 set :application, "test1"
 set :repository,  "set your repository location here"
 set :use_sudo, false
-set :use_sudo, false
 
 # If you have previously been relying upon the code to start, stop 
 # and restart your mongrel application, or if you rely on the database
