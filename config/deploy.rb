@@ -28,7 +28,7 @@ set :use_sudo, false
 
 # If you aren't using Subversion to manage your source code, specify
 # your SCM below:
-  set :repository, "git://github.com/DoctorMemory/first.git"
+  set :repository, "http://github.com/DoctorMemory/first.git"
 
   set :scm, :git
 # see a full list by running "gem contents capistrano | grep 'scm/'"
